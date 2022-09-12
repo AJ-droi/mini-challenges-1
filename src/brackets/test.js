@@ -50,3 +50,5 @@ describe("Brackets Suite", () => {
     expect(isValid("{{[][()]}{[][()]}{[][()]}}")).toBe("valid");
   });
 });
+
+
